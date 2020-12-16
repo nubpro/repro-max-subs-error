@@ -1,0 +1,202 @@
+type Todo1 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo2 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo3 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo4 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo5 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo6 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo7 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo8 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo9 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo10 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo11 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo12 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo13 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo14 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo15 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo16 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo17 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo18 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo19 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo20 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+type Todo21 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo22 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo23 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo24 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo25 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo26 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo27 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo28 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo29 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo30 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo31 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo32 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+type Todo33 @model {
+    id: ID!
+    name: String!
+    description: String
+}
+
+# type Todo34 @model {
+#     id: ID!
+#     name: String!
+#     description: String
+# }
